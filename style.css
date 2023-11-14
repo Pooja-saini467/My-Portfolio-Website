@@ -29,7 +29,7 @@ html::-webkit-scrollbar-thumb{
     background:var(--yellow);
 }
 body{
-    background:#111;
+    background:#063970;
     overflow-x: hidden;
     padding-left: 35rem;
 }
